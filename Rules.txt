@@ -1,0 +1,24 @@
+Standard trick taking game for four players
+
+Some cards are worth points:
+ - All hearts are worth one point each
+ - The queen of Spades is worth thirteen points 
+ - The jack of clubs is worth six points
+The other cards are worth nothing
+
+The aim of the game is to obtain the least amount of points possible
+If a player obtains all point (32) however, that player receives zero points and the other players receive 32 points
+
+Each player get dealt a hand of 13 cards
+Each player gives three cards to (right, across, left or itself)
+
+The player holding the two of clubs begins the first trick with the two of clubs
+In the first trick no cards worth points can be played with some exceptions
+ - A player must follow suit, thus if the only club is the jack of clubs, the jack of clubs must be played
+ - If a players holds only cards worth points
+
+The player that plays the highest value of the requested suit takes the cards in the trick and opens the next trick
+
+A player can only open a trick with heart if
+ - the player only has hearts
+ - heart have already been played
